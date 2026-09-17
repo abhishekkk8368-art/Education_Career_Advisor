@@ -1,0 +1,7 @@
+Project: AI Education Career Advisor
+
+Problem Statement:
+Students are unsure which careers match their skills.
+
+Solution Statement:
+Analyze interests and skills to suggest career paths.
